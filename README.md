@@ -71,11 +71,11 @@ The table below highlights leading commercial and hosted SaaS vector design plat
 
 A curated collection of free, open-source vector graphics editors, procedural illustration suites, and SVG engines.
 
-> 💡 **Sorted in descending order by GitHub Stars.** Every entry features a live GitHub star badge linked directly to its repository stargazers page.
+> 💡 **Sorted in descending order by GitHub_Stars.** Every entry features a live GitHub Stars_Badge linked directly to its repository stargazers page.
 
 ---
 
-### 1. [Penpot](https://github.com/penpot/penpot) [![GitHub stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)
+### 1. [Penpot](https://github.com/penpot/penpot) [![GitHub_Stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)
 - **Primary Focus:** Web-based, open-source design and prototyping platform built natively on open web standards (SVG).
 - **Tech Stack & Engine:** Clojure, ClojureScript, WebGL, SVG DOM rendering.
 - **Key Features:**
@@ -87,7 +87,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 2. [Graphite](https://github.com/GraphiteEditor/Graphite) [![GitHub stars](https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social&color=white)](https://github.com/GraphiteEditor/Graphite/stargazers)
+### 2. [Graphite](https://github.com/GraphiteEditor/Graphite) [![GitHub_Stars](https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social&color=white)](https://github.com/GraphiteEditor/Graphite/stargazers)
 - **Primary Focus:** In-development 2D procedural graphics engine combining non-destructive node graphs with traditional vector drawing.
 - **Tech Stack & Engine:** Rust, WebAssembly, WebGPU / WGPU, Svelte interface.
 - **Key Features:**
@@ -99,7 +99,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 3. [VectorCraft](https://github.com/storytold/vectorcraft) [![GitHub stars](https://img.shields.io/github/stars/storytold/vectorcraft?style=social&color=white)](https://github.com/storytold/vectorcraft/stargazers)
+### 3. [VectorCraft](https://github.com/storytold/vectorcraft) [![GitHub_Stars](https://img.shields.io/github/stars/storytold/vectorcraft?style=social&color=white)](https://github.com/storytold/vectorcraft/stargazers)
 - **Primary Focus:** High-performance, clean-room Rust implementation of an Illustrator-familiar vector illustration suite.
 - **Tech Stack & Engine:** Pure Rust, Skia rendering engine backend, cross-platform GUI framework.
 - **Key Features:**
@@ -111,7 +111,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 4. [SVG-Edit](https://github.com/SVG-Edit/svgedit) [![GitHub stars](https://img.shields.io/github/stars/SVG-Edit/svgedit?style=social&color=white)](https://github.com/SVG-Edit/svgedit/stargazers)
+### 4. [SVG-Edit](https://github.com/SVG-Edit/svgedit) [![GitHub_Stars](https://img.shields.io/github/stars/SVG-Edit/svgedit?style=social&color=white)](https://github.com/SVG-Edit/svgedit/stargazers)
 - **Primary Focus:** The reference open-source, in-browser SVG editor, maintained continuously for over 15 years.
 - **Tech Stack & Engine:** Vanilla JavaScript, HTML5 Canvas, SVG DOM manipulation (`@svgedit/svgcanvas`).
 - **Key Features:**
@@ -123,7 +123,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 5. [vtracer](https://github.com/visioncortex/vtracer) [![GitHub stars](https://img.shields.io/github/stars/visioncortex/vtracer?style=social&color=white)](https://github.com/visioncortex/vtracer/stargazers)
+### 5. [vtracer](https://github.com/visioncortex/vtracer) [![GitHub_Stars](https://img.shields.io/github/stars/visioncortex/vtracer?style=social&color=white)](https://github.com/visioncortex/vtracer/stargazers)
 - **Primary Focus:** High-speed raster-to-vector image converter that transforms JPG/PNG bitmaps into clean, scalable SVG paths.
 - **Tech Stack & Engine:** Rust, WebAssembly, Multi-threaded curve fitting algorithms.
 - **Key Features:**
@@ -135,7 +135,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 6. [SVG Path Editor](https://github.com/Yqnn/svg-path-editor) [![GitHub stars](https://img.shields.io/github/stars/Yqnn/svg-path-editor?style=social&color=white)](https://github.com/Yqnn/svg-path-editor/stargazers)
+### 6. [SVG Path Editor](https://github.com/Yqnn/svg-path-editor) [![GitHub_Stars](https://img.shields.io/github/stars/Yqnn/svg-path-editor?style=social&color=white)](https://github.com/Yqnn/svg-path-editor/stargazers)
 - **Primary Focus:** Specialized browser-based visual utility to inspect, create, simplify, and manipulate raw SVG `<path>` data strings.
 - **Tech Stack & Engine:** TypeScript, React, HTML5 SVG.
 - **Key Features:**
@@ -147,7 +147,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 7. [Inkscape](https://github.com/inkscape/inkscape) [![GitHub stars](https://img.shields.io/github/stars/inkscape/inkscape?style=social&color=white)](https://github.com/inkscape/inkscape/stargazers)
+### 7. [Inkscape](https://github.com/inkscape/inkscape) [![GitHub_Stars](https://img.shields.io/github/stars/inkscape/inkscape?style=social&color=white)](https://github.com/inkscape/inkscape/stargazers)
 - **Primary Focus:** The premier open-source desktop vector graphics editor, providing Illustrator-grade capabilities on Linux, Windows, and macOS.
 - **Tech Stack & Engine:** C++, GTK3, Cairo 2D graphics engine.
 - **Key Features:**
@@ -159,7 +159,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 8. [Method Draw](https://github.com/methodofaction/Method-Draw) [![GitHub stars](https://img.shields.io/github/stars/methodofaction/Method-Draw?style=social&color=white)](https://github.com/methodofaction/Method-Draw/stargazers)
+### 8. [Method Draw](https://github.com/methodofaction/Method-Draw) [![GitHub_Stars](https://img.shields.io/github/stars/methodofaction/Method-Draw?style=social&color=white)](https://github.com/methodofaction/Method-Draw/stargazers)
 - **Primary Focus:** Streamlined, minimalist browser SVG editor designed for effortless and approachable graphic creation.
 - **Tech Stack & Engine:** JavaScript, CSS3, SVG DOM.
 - **Key Features:**
@@ -171,7 +171,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 9. [GodSVG](https://github.com/MewPurPur/GodSVG) [![GitHub stars](https://img.shields.io/github/stars/MewPurPur/GodSVG?style=social&color=white)](https://github.com/MewPurPur/GodSVG/stargazers)
+### 9. [GodSVG](https://github.com/MewPurPur/GodSVG) [![GitHub_Stars](https://img.shields.io/github/stars/MewPurPur/GodSVG?style=social&color=white)](https://github.com/MewPurPur/GodSVG/stargazers)
 - **Primary Focus:** Desktop and web vector graphics application specifically optimized for structured and clean SVG file editing.
 - **Tech Stack & Engine:** Godot Engine 4, GDScript / C++.
 - **Key Features:**
@@ -183,7 +183,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 10. [macSVG](https://github.com/dsward2/macSVG) [![GitHub stars](https://img.shields.io/github/stars/dsward2/macSVG?style=social&color=white)](https://github.com/dsward2/macSVG/stargazers)
+### 10. [macSVG](https://github.com/dsward2/macSVG) [![GitHub_Stars](https://img.shields.io/github/stars/dsward2/macSVG?style=social&color=white)](https://github.com/dsward2/macSVG/stargazers)
 - **Primary Focus:** Native macOS application for designing HTML5 SVG artwork and interactive vector animations.
 - **Tech Stack & Engine:** Objective-C, Cocoa, WebKit web view runtime.
 - **Key Features:**
@@ -195,7 +195,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 11. [Mondrian](https://github.com/artursapek/mondrian) [![GitHub stars](https://img.shields.io/github/stars/artursapek/mondrian?style=social&color=white)](https://github.com/artursapek/mondrian/stargazers)
+### 11. [Mondrian](https://github.com/artursapek/mondrian) [![GitHub_Stars](https://img.shields.io/github/stars/artursapek/mondrian?style=social&color=white)](https://github.com/artursapek/mondrian/stargazers)
 - **Primary Focus:** Lightweight, clean, and elegant web-based vector graphics editor.
 - **Tech Stack & Engine:** CoffeeScript / JavaScript, Canvas, SVG.
 - **Key Features:**
@@ -207,7 +207,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 12. [VPaint](https://github.com/dalboris/vpaint) [![GitHub stars](https://img.shields.io/github/stars/dalboris/vpaint?style=social&color=white)](https://github.com/dalboris/vpaint/stargazers)
+### 12. [VPaint](https://github.com/dalboris/vpaint) [![GitHub_Stars](https://img.shields.io/github/stars/dalboris/vpaint?style=social&color=white)](https://github.com/dalboris/vpaint/stargazers)
 - **Primary Focus:** Experimental vector graphics and 2D animation editor based on Vector Animation Complexes (VAC).
 - **Tech Stack & Engine:** C++, Qt, OpenGL.
 - **Key Features:**
@@ -219,7 +219,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 13. [sK1](https://github.com/sk1-project/sk1-wx) [![GitHub stars](https://img.shields.io/github/stars/sk1-project/sk1-wx?style=social&color=white)](https://github.com/sk1-project/sk1-wx/stargazers)
+### 13. [sK1](https://github.com/sk1-project/sk1-wx) [![GitHub_Stars](https://img.shields.io/github/stars/sk1-project/sk1-wx?style=social&color=white)](https://github.com/sk1-project/sk1-wx/stargazers)
 - **Primary Focus:** Cross-platform vector graphics editor built specifically for professional prepress and print publishing.
 - **Tech Stack & Engine:** Python, C, wxWidgets, Cairo graphics engine.
 - **Key Features:**
@@ -231,7 +231,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 14. [Karbon (Calligra)](https://github.com/KDE/calligra) [![GitHub stars](https://img.shields.io/github/stars/KDE/calligra?style=social&color=white)](https://github.com/KDE/calligra/stargazers)
+### 14. [Karbon (Calligra)](https://github.com/KDE/calligra) [![GitHub_Stars](https://img.shields.io/github/stars/KDE/calligra?style=social&color=white)](https://github.com/KDE/calligra/stargazers)
 - **Primary Focus:** The KDE ecosystem's native vector drawing application, integrated into the Calligra office suite.
 - **Tech Stack & Engine:** C++, Qt5 / Qt6, KDE Frameworks.
 - **Key Features:**
@@ -243,7 +243,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 15. [repath](https://github.com/repath-studio/repath-studio) [![GitHub stars](https://img.shields.io/github/stars/repath-studio/repath-studio?style=social&color=white)](https://github.com/repath-studio/repath-studio/stargazers)
+### 15. [repath](https://github.com/repath-studio/repath-studio) [![GitHub_Stars](https://img.shields.io/github/stars/repath-studio/repath-studio?style=social&color=white)](https://github.com/repath-studio/repath-studio/stargazers)
 - **Primary Focus:** Modern web-based vector graphics editor merging procedural tooling with direct artistic workflows.
 - **Tech Stack & Engine:** TypeScript, React, HTML5 Canvas / WebGL.
 - **Key Features:**
@@ -255,7 +255,7 @@ A curated collection of free, open-source vector graphics editors, procedural il
 
 ---
 
-### 16. [Lucent Designer](https://github.com/lallmon/lucent-designer) [![GitHub stars](https://img.shields.io/github/stars/lallmon/lucent-designer?style=social&color=white)](https://github.com/lallmon/lucent-designer/stargazers)
+### 16. [Lucent Designer](https://github.com/lallmon/lucent-designer) [![GitHub_Stars](https://img.shields.io/github/stars/lallmon/lucent-designer?style=social&color=white)](https://github.com/lallmon/lucent-designer/stargazers)
 - **Primary Focus:** Linux-first hybrid vector and raster design software inspired by Affinity Designer.
 - **Tech Stack & Engine:** C++, Qt, QML.
 - **Key Features:**
@@ -310,7 +310,7 @@ We welcome additions, updates, and benchmark contributions from designers and de
 3. 📝 **Add Your Entry:**
    - Adhere strictly to the existing tabular or open-source list format.
    - For SaaS products, include exact starting prices, specific free tier limits, and verifiable company valuation metrics.
-   - For open-source tools, include the repository URL, exact star count, license, tech stack, and limitations.
+   - For open-source tools, include the repository URL, exact Stars_Count, license, tech stack, and limitations.
 4. 🚀 **Submit a Pull Request:** Provide a brief summary of why the entry is notable and links to official documentation.
 
 ⭐ **Star this repository** if you find it helpful for navigating the vector design ecosystem!
