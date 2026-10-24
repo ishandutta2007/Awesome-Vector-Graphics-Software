@@ -32,6 +32,7 @@
 - [🔬 Architecture & Capabilities Matrix](#-architecture--capabilities-matrix)
 - [❓ Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⭐ Star History](#-star-history)
 - [⚖️ License & Disclaimer](#️-license--disclaimer)
 
@@ -313,6 +314,29 @@ We welcome additions, updates, and benchmark contributions from designers and de
 4. 🚀 **Submit a Pull Request:** Provide a brief summary of why the entry is notable and links to official documentation.
 
 ⭐ **Star this repository** if you find it helpful for navigating the vector design ecosystem!
+
+---
+
+## 💖 Support & Sponsorship
+
+A huge **thank you** for checking out and supporting **Awesome Vector Graphics Software**! Maintaining and continually benchmarking this curated directory takes ongoing research and community feedback. 
+
+If this resource has saved you time, introduced you to great tools, or assisted in your design pipeline, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to amplify its reach.
+- 🍴 **Fork the repo** and submit PRs to keep the data fresh and accurate.
+- 📢 **Share it** with fellow designers, illustrators, and developers across social channels, forums, and developer communities.
+- ☕ **Buy me a coffee / Sponsor:** If you'd like to support open-source maintenance directly, you can contribute via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
