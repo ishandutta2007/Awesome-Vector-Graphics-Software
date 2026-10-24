@@ -2,7 +2,7 @@
 
 # Awesome-Vector-Graphics-Software
 
-# Top Vector Graphics Software Ecosystem
+## Top Vector Graphics Software Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on SVG-Native Editing, Procedural Node Engines & Self-Hosted Design Platforms*  
